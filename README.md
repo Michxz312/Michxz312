@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Michealea Faustine</h1>
 <h3 align="center">A Mathematics Student at UBC</h3>
 
-- 🔭 I’m currently working on [MATH-441 Portfolio](https://github.com/Michxz312/Math-441)
+- 🔭 I’m currently working on [MATH-441 Portfolio](https://github.com/Michxz312/Discrete-Optimization-Problems)
 
 - 🌱 I’m currently learning **React and Discrete Optimization Problem**
 
