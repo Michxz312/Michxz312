@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michealea Faustine</h1>
-<h3 align="center">A Mathematics Student at UBC</h3>
+<h3 align="center">A recent graduate from Mathematics at UBC</h3>
 
 - 🔭 I’m currently working on [Optimization Problems](https://github.com/Michxz312/Optimization-Problems)
 
