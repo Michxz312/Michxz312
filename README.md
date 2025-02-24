@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Optimization Problems](https://github.com/Michxz312/Optimization-Problems)
 
-- 🌱 I’m currently learning **React and Discrete Optimization Problem**
+- 🌱 I’m currently learning **Discrete Optimization Problem**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Michxz312](https://github.com/Michxz312)
+- 👨‍💻 All of my projects are available at [https://github.com/Michxz312](https://michxz312.github.io/)
 
 - 📫 How to reach me **michealeafaustin@gmail.com**
 
